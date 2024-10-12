@@ -1,3 +1,19 @@
+Introduction (ZK Jargon Decoder)¬"
+<p>This deck has taken definitions outlined in <a href=""https://zkjargon.github.io/"">ZK Jargon Decoder</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(ZK Jargon Decoder)"" appended to the end so that if you have any other words in your collection, the ZK Jargon Decoder's Glossary definition will still be added when importing it.</li>
+<li>The original relative URLs have been made into full URLs so they are clickable within Anki.</li>
+<li>Unordered lists have been aligned to the left to make them easier to read in Anki which automatically centers content.</li>
+<li>Any updates, translations or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/ZK-Jargon-Decoder-Flashcards""></a><a href=""https://github.com/darigovresearch/ZK-Jargon-Decoder-Flashcards"">https://github.com/darigovresearch/ZK-Jargon-Decoder-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This work was based on the <em><strong>ZK Jargon Decoder</strong></em>. Content is available under an <a href=""https://creativecommons.org/licenses/by-sa/4.0/"">CC BY-SA 4.0</a>.</p>
+<p>To see this work in full go to <a href=""https://zkjargon.github.io/"">https://zkjargon.github.io/</a></p>
+"
 What is ZK Jargon Decoder? (ZK Jargon Decoder)¬"
 
                         <link rel=""stylesheet"" href=""https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"" integrity=""sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"" crossorigin=""anonymous"">
